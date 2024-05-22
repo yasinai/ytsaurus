@@ -40,3 +40,4 @@ PyGithub
 
 # pandas API on Spark Code formatter.
 black
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
