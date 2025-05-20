@@ -40,3 +40,4 @@ PyGithub
 
 # pandas API on Spark Code formatter.
 black
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
